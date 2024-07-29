@@ -1,5 +1,8 @@
 # OLearning
 
+Server Live URL ->
+https://lms-test-8t3k.onrender.com
+
 OLearning is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
